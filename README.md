@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Galgje – Git Collaboration
+=======
+# Hangman
+>>>>>>> a1b9cfe760830ac9270a16b0de27fa3c27b1f54d
 
 **Team:** <Teamnaam>  
 **Spelvolgorde & contact:**
@@ -16,7 +20,11 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
+<<<<<<< HEAD
 ![status](images/image1.png)
+=======
+![status](images/1.png)
+>>>>>>> a1b9cfe760830ac9270a16b0de27fa3c27b1f54d
 
 ---
 
